@@ -1,8 +1,0 @@
-#ignoring the db
-db.sqlite3
-#ignoring the venv
-chat_app_venv/
-#ignoring vscode settings
-.vscode/
-#ignoring existing images
-Message/media/
